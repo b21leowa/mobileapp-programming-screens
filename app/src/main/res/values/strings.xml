@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Screens</string>
+    <string name="loginTitle">Login</string>
+    <string name="loginButton">Login</string>
 </resources>
