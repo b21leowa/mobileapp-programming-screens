@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">B21leowa Testing</string>
+    <string name="app_name">B21leowa Screens</string>
     <string name="loginTitle">Login</string>
     <string name="loginButton">Login</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
 </resources>
